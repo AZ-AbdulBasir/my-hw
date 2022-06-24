@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    width: 1200px;
+    height: 450px;
+    background-color: blue;
+    margin-top: 200px;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+
+.foto {
+    left: 750px;
+    bottom: 183px;
+    position: relative;
+}
+
+.text {
+    position: relative;
+    top: 100px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.text2 {
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+    top: 180px;
+    color: white;
+}
+
+.block {
+    position: relative;
+    top: 350px;
+    left: 100px;
+    background-color: white;
+    border-radius: 5px;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    padding-top: 10px;
+}
